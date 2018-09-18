@@ -1,0 +1,6 @@
+c:\users\asehrawat\source\repos\HotelJsonWCF\WCFClient\bin\Debug\WCFClient.exe.config
+c:\users\asehrawat\source\repos\HotelJsonWCF\WCFClient\bin\Debug\WCFClient.exe
+c:\users\asehrawat\source\repos\HotelJsonWCF\WCFClient\bin\Debug\WCFClient.pdb
+c:\users\asehrawat\source\repos\HotelJsonWCF\WCFClient\obj\Debug\WCFClient.csproj.CoreCompileInputs.cache
+c:\users\asehrawat\source\repos\HotelJsonWCF\WCFClient\obj\Debug\WCFClient.exe
+c:\users\asehrawat\source\repos\HotelJsonWCF\WCFClient\obj\Debug\WCFClient.pdb

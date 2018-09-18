@@ -1,0 +1,9 @@
+c:\users\asehrawat\source\repos\HotelJsonWCF\HotelJsonWCF\bin\Debug\HotelJsonWCF.dll.config
+c:\users\asehrawat\source\repos\HotelJsonWCF\HotelJsonWCF\bin\Debug\HotelJsonWCF.dll
+c:\users\asehrawat\source\repos\HotelJsonWCF\HotelJsonWCF\bin\Debug\HotelJsonWCF.pdb
+c:\users\asehrawat\source\repos\HotelJsonWCF\HotelJsonWCF\bin\Debug\Newtonsoft.Json.dll
+c:\users\asehrawat\source\repos\HotelJsonWCF\HotelJsonWCF\bin\Debug\Newtonsoft.Json.xml
+c:\users\asehrawat\source\repos\HotelJsonWCF\HotelJsonWCF\obj\Debug\HotelJsonWCF.csproj.CoreCompileInputs.cache
+c:\users\asehrawat\source\repos\HotelJsonWCF\HotelJsonWCF\obj\Debug\HotelJsonWCF.dll
+c:\users\asehrawat\source\repos\HotelJsonWCF\HotelJsonWCF\obj\Debug\HotelJsonWCF.pdb
+c:\users\asehrawat\source\repos\HotelJsonWCF\HotelJsonWCF\obj\Debug\HotelJsonWCF.csprojResolveAssemblyReference.cache
