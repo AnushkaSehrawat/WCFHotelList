@@ -1,0 +1,7 @@
+C:\Users\asehrawat\source\repos\HotelApplicationWCF\HotelApplicationWCF\bin\Debug\HotelApplicationWCF.dll.config
+C:\Users\asehrawat\source\repos\HotelApplicationWCF\HotelApplicationWCF\bin\Debug\HotelApplicationWCF.dll
+C:\Users\asehrawat\source\repos\HotelApplicationWCF\HotelApplicationWCF\bin\Debug\HotelApplicationWCF.pdb
+C:\Users\asehrawat\source\repos\HotelApplicationWCF\HotelApplicationWCF\obj\Debug\HotelApplicationWCF.csprojResolveAssemblyReference.cache
+C:\Users\asehrawat\source\repos\HotelApplicationWCF\HotelApplicationWCF\obj\Debug\HotelApplicationWCF.csproj.CoreCompileInputs.cache
+C:\Users\asehrawat\source\repos\HotelApplicationWCF\HotelApplicationWCF\obj\Debug\HotelApplicationWCF.dll
+C:\Users\asehrawat\source\repos\HotelApplicationWCF\HotelApplicationWCF\obj\Debug\HotelApplicationWCF.pdb
